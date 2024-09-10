@@ -33,7 +33,7 @@ class TestHBNBCommand_prompting(unittest.TestCase):
 
 
 class TestHBNBCommand_help(unittest.TestCase):
-    """Unittests for testing help messages of the HBNB command interpreter."""
+    """Unittests for testing the HBNB command interpreter."""
 
     def test_help_quit(self):
         h = "Quit command to exit the program."
