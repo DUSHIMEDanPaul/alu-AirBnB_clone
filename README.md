@@ -1,2 +1,0 @@
-The AirBnB Clone Project is a simplified version of the AirBnB website, aimed at covering key concepts of higher-level programming. 
-It includes four main components: a command-line interpreter for manipulating data (ideal for development and debugging), a front-end static and dynamic website that simulates the AirBnB platform, data storage using either a file system (JSON) or a database (SQLite/MySQL), and a RESTful API built with Flask to enable communication between the front-end and back-end.
