@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-    Define 'State' class
+    Define "State" class
 """
 from models.base_model import BaseModel
 
