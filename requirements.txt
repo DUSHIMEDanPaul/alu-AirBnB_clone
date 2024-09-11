@@ -1,0 +1,8 @@
+Flask==2.3.2              Web framework for building the website and API
+Jinja2==3.1.2             Templating engine for rendering HTML (used with Flask)
+SQLAlchemy==2.0.15        ORM for database management
+Flask-SQLAlchemy==3.0.5   Integration of Flask with SQLAlchemy
+Werkzeug==2.3.2           Flask dependency for request/response handling
+Flask-RESTful==0.3.10     For creating REST APIs with Flask
+PyMySQL==1.1.0            MySQL database connector (if using MySQL)
+psycopg2-binary==2.9.
